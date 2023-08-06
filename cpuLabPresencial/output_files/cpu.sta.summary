@@ -1,0 +1,149 @@
+------------------------------------------------------------
+Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'freqReducer:freq|count[18]'
+Slack : -127.241
+TNS   : -37121.516
+
+Type  : Slow 1200mV 85C Model Setup 'single_port_rom:instrucoes|q[26]'
+Slack : -4.688
+TNS   : -105.370
+
+Type  : Slow 1200mV 85C Model Setup 'clock50'
+Slack : -2.283
+TNS   : -43.251
+
+Type  : Slow 1200mV 85C Model Hold 'clock50'
+Slack : 0.634
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'freqReducer:freq|count[18]'
+Slack : 0.756
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'single_port_rom:instrucoes|q[26]'
+Slack : 1.900
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Recovery 'inserir'
+Slack : -4.835
+TNS   : -80.758
+
+Type  : Slow 1200mV 85C Model Removal 'inserir'
+Slack : 0.718
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'clock50'
+Slack : -3.000
+TNS   : -27.415
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'inserir'
+Slack : -3.000
+TNS   : -3.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'freqReducer:freq|count[18]'
+Slack : -2.693
+TNS   : -782.455
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'single_port_rom:instrucoes|q[26]'
+Slack : 0.443
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'freqReducer:freq|count[18]'
+Slack : -114.719
+TNS   : -33688.881
+
+Type  : Slow 1200mV 0C Model Setup 'single_port_rom:instrucoes|q[26]'
+Slack : -4.276
+TNS   : -94.894
+
+Type  : Slow 1200mV 0C Model Setup 'clock50'
+Slack : -2.062
+TNS   : -39.052
+
+Type  : Slow 1200mV 0C Model Hold 'clock50'
+Slack : 0.579
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'freqReducer:freq|count[18]'
+Slack : 0.871
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'single_port_rom:instrucoes|q[26]'
+Slack : 1.756
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Recovery 'inserir'
+Slack : -4.355
+TNS   : -72.288
+
+Type  : Slow 1200mV 0C Model Removal 'inserir'
+Slack : 0.646
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'clock50'
+Slack : -3.000
+TNS   : -27.415
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'inserir'
+Slack : -3.000
+TNS   : -3.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'freqReducer:freq|count[18]'
+Slack : -2.649
+TNS   : -781.575
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'single_port_rom:instrucoes|q[26]'
+Slack : 0.406
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'freqReducer:freq|count[18]'
+Slack : -62.418
+TNS   : -18080.192
+
+Type  : Fast 1200mV 0C Model Setup 'single_port_rom:instrucoes|q[26]'
+Slack : -1.599
+TNS   : -26.645
+
+Type  : Fast 1200mV 0C Model Setup 'clock50'
+Slack : -0.689
+TNS   : -7.610
+
+Type  : Fast 1200mV 0C Model Hold 'clock50'
+Slack : 0.287
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'freqReducer:freq|count[18]'
+Slack : 0.329
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'single_port_rom:instrucoes|q[26]'
+Slack : 0.563
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Recovery 'inserir'
+Slack : -1.966
+TNS   : -32.468
+
+Type  : Fast 1200mV 0C Model Removal 'inserir'
+Slack : 0.304
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'clock50'
+Slack : -3.000
+TNS   : -23.178
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'inserir'
+Slack : -3.000
+TNS   : -3.275
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'freqReducer:freq|count[18]'
+Slack : -1.000
+TNS   : -587.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'single_port_rom:instrucoes|q[26]'
+Slack : 0.412
+TNS   : 0.000
+
+------------------------------------------------------------

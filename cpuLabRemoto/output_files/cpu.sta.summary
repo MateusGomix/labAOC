@@ -1,0 +1,149 @@
+------------------------------------------------------------
+Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'freqReducer:freq|count[13]'
+Slack : -125.103
+TNS   : -35762.744
+
+Type  : Slow 1200mV 85C Model Setup 'single_port_rom:instrucoes|q[26]'
+Slack : -3.439
+TNS   : -93.577
+
+Type  : Slow 1200mV 85C Model Setup 'clock50'
+Slack : -1.485
+TNS   : -18.812
+
+Type  : Slow 1200mV 85C Model Hold 'freqReducer:freq|count[13]'
+Slack : -1.597
+TNS   : -18.117
+
+Type  : Slow 1200mV 85C Model Hold 'clock50'
+Slack : 0.633
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'single_port_rom:instrucoes|q[26]'
+Slack : 1.701
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Recovery 'debouncer:deb|saidaPrev'
+Slack : -2.241
+TNS   : -36.526
+
+Type  : Slow 1200mV 85C Model Removal 'debouncer:deb|saidaPrev'
+Slack : 1.109
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'clock50'
+Slack : -3.000
+TNS   : -20.990
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'freqReducer:freq|count[13]'
+Slack : -2.693
+TNS   : -830.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'single_port_rom:instrucoes|q[26]'
+Slack : 0.436
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'debouncer:deb|saidaPrev'
+Slack : 0.437
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'freqReducer:freq|count[13]'
+Slack : -112.689
+TNS   : -32390.659
+
+Type  : Slow 1200mV 0C Model Setup 'single_port_rom:instrucoes|q[26]'
+Slack : -3.097
+TNS   : -84.095
+
+Type  : Slow 1200mV 0C Model Setup 'clock50'
+Slack : -1.225
+TNS   : -16.494
+
+Type  : Slow 1200mV 0C Model Hold 'freqReducer:freq|count[13]'
+Slack : -1.353
+TNS   : -14.912
+
+Type  : Slow 1200mV 0C Model Hold 'clock50'
+Slack : 0.579
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'single_port_rom:instrucoes|q[26]'
+Slack : 1.577
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Recovery 'debouncer:deb|saidaPrev'
+Slack : -2.202
+TNS   : -36.180
+
+Type  : Slow 1200mV 0C Model Removal 'debouncer:deb|saidaPrev'
+Slack : 1.024
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'clock50'
+Slack : -3.000
+TNS   : -20.990
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'freqReducer:freq|count[13]'
+Slack : -2.649
+TNS   : -829.120
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'single_port_rom:instrucoes|q[26]'
+Slack : 0.434
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'debouncer:deb|saidaPrev'
+Slack : 0.443
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'freqReducer:freq|count[13]'
+Slack : -61.312
+TNS   : -17329.061
+
+Type  : Fast 1200mV 0C Model Setup 'single_port_rom:instrucoes|q[26]'
+Slack : -0.909
+TNS   : -19.825
+
+Type  : Fast 1200mV 0C Model Setup 'clock50'
+Slack : -0.639
+TNS   : -5.852
+
+Type  : Fast 1200mV 0C Model Hold 'freqReducer:freq|count[13]'
+Slack : -1.029
+TNS   : -14.560
+
+Type  : Fast 1200mV 0C Model Hold 'clock50'
+Slack : 0.288
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'single_port_rom:instrucoes|q[26]'
+Slack : 0.446
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Recovery 'debouncer:deb|saidaPrev'
+Slack : -0.585
+TNS   : -8.514
+
+Type  : Fast 1200mV 0C Model Removal 'debouncer:deb|saidaPrev'
+Slack : 0.497
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'clock50'
+Slack : -3.000
+TNS   : -17.854
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'freqReducer:freq|count[13]'
+Slack : -1.000
+TNS   : -624.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'debouncer:deb|saidaPrev'
+Slack : 0.356
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'single_port_rom:instrucoes|q[26]'
+Slack : 0.386
+TNS   : 0.000
+
+------------------------------------------------------------

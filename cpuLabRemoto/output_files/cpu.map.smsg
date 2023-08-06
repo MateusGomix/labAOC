@@ -1,0 +1,1 @@
+Warning (10268): Verilog HDL information at single_port_rom.v(30): always construct contains both blocking and non-blocking assignments File: C:/Users/gilpa/Downloads/cpuArquivadaLabRemoto3/single_port_rom.v Line: 30
